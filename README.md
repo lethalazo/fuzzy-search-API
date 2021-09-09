@@ -20,11 +20,9 @@ Files:<br/>
     <br/>
     - es_indexer.py: A Python class to encapsulate the Elasticsearch operations and provide a high-level 'API' for the app to use.<br/>
     <br/>
-    - run.sh: A bash script to perform GET and POST requests to the Fuzzy Search API.<br/>
-    <br/>
     - data.json: The provided JSON data file.<br/>
 <br/>
 How to run:<br/>
     - Run a 'elasticsearch' node on http://localhost:9200 (preferably as a daemon).<br/>
     - Run the api.py file using Python 3.<br/>
-    - Run example GET and POST operations on the /companies endpoint using the run.sh file.<br/>
+    - Run example GET and POST operations on the /data endpoint using the run.sh file.<br/>
