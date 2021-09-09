@@ -25,4 +25,4 @@ Files:<br/>
 How to run:<br/>
     - Run a 'elasticsearch' node on http://localhost:9200 (preferably as a daemon).<br/>
     - Run the api.py file using Python 3.<br/>
-    - Run example GET and POST operations on the /companies endpoint using the run.sh file.<br/>
+    - Run example GET and POST operations on the /data endpoint using the run.sh file.<br/>
